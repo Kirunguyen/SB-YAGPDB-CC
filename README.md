@@ -5,7 +5,7 @@ Một số lệnh tùy chỉnh Kiru tạo ra bằng ngôn ngữ Go / Golang đ�
 > Note: YAGPDB đã có sẵn Dashboard hỗ trợ việc nhập liệu (Input), trong đây sẽ chỉ có phần Code về (lưu trữ Data riêng trong Server / xử lý dữ liệu / xuất dữ liệu)
 
 I. Bộ Randomizer tùy chỉnh (Chủ đề: Liên Quân Mobile)
-  1. Random đơn lẻ
+  1. Random đơn lẻ (`random_hero_lqm.go`)
 > Random 1 tướng - 1 vị trí - 1 bổ trợ
 > 
 > Quy định: Vị trí Rừng => Bổ trợ Trừng Trị
