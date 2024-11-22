@@ -10,6 +10,7 @@ I. Bộ Randomizer tùy chỉnh (Chủ đề: Liên Quân Mobile)
 > 
 > Quy định: Vị trí Rừng => Bổ trợ Trừng Trị
 
-![image](https://github.com/user-attachments/assets/6d82cb54-fe97-46e3-84b0-ca0325d3e492)
+![image](https://github.com/user-attachments/assets/71b88a97-6b9e-445a-88bf-bea8c884eef7)
+
 
 
