@@ -20,3 +20,59 @@ I. Bộ Randomizer tùy chỉnh (Chủ đề: Liên Quân Mobile)
 ![image](https://github.com/user-attachments/assets/d8957c33-b0fb-4107-b8d0-9e857c54b965)
 
 
+II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobile) `[trích]`
+
+> `gacha_uprate_pity_x10.go` 
+
+- Giới thiệu
+
+![image](https://github.com/user-attachments/assets/0807bdc7-ea94-46c7-8fba-567192567fb3)
+
+- Cơ chế
+> Randomizer tùy biến sâu
+> 
+> Lặp 10 lần (cố định)
+
+> - Bộ randomizer chính:
+>
+> ```Banner S (0.5% / 1% / 2% / 96.5%)
+> SSR (0.5%) = List 10 roles
+> SR (1%) = Role1
+> UC (2%) = Role2
+> C (96.5%) = Fail (Nothing)```
+
+> - Bộ randomizer phụ 1 (Fail)
+> *Chỉ random các câu "xịt" kèm emoji khác nhau, không có gì đặc biệt*
+
+> - Bộ randomizer phụ 2 (SSR = List 10 roles)
+>
+> Chọn 1 Role trong List trên
+>
+> **Cơ chế UPRATE**: 1 Role chọn trước gắn mác "UPRATE" sẽ chiếm tỉ lệ nhiều hon so với các Role còn lại
+>
+> *(Bộ randomizer phụ 3 quyết định chọn Role UPRATE hoặc không)*
+
+> **Cơ chế PITY**: Dựa vào dữ liệu lưu trong mục DATABASE của YAGPDB, ảnh hưởng kết quả cuối cùng
+>
+> -> *"Đạt PITY": Người dùng được đảm bảo trúng **SSR** (mặc dù bộ randomizer chính "roll toàn xịt")*
+
+- Phụ
+> Cách hiển thị kết quả:
+>
+> - Chào mừng người dùng
+>
+> - Kiểm tra PITY, thông báo nếu đạt
+>
+> - Bắt đầu cơ chế Randomizer chính (lặp 10x, nghỉ 2s giữa các lần)
+>
+> - Bắt đầu cơ chế Randomizer phụ / cơ chế Uprate / ...
+>
+> - Thông báo kết quả cuối cùng
+
+![image](https://github.com/user-attachments/assets/4fb3aeb5-1730-48f1-9539-c119de07d4da)
+
+![image](https://github.com/user-attachments/assets/f4643dfc-8cd5-4981-806c-cd949787d73c)
+
+![image](https://github.com/user-attachments/assets/518a1e84-bf22-4847-a426-b9370daba3ab)
+
+
