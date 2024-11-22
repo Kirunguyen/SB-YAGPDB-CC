@@ -63,9 +63,7 @@ II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobil
 >
 > - Kiểm tra PITY, thông báo nếu đạt
 >
-> - Bắt đầu cơ chế Randomizer chính (lặp 10x, nghỉ 2s giữa các lần)
->
-> - Bắt đầu cơ chế Randomizer phụ / cơ chế Uprate / ...
+> - Bắt đầu cơ chế Randomizer chính (lặp 10x, nghỉ 2s giữa các lần) / Randomizer phụ / cơ chế Uprate / ... => Thực hiện **Edit** tin nhắn ban đầu sau mỗi vòng lặp, không gửi tin nhắn mới  
 >
 > - Thông báo kết quả cuối cùng
 
