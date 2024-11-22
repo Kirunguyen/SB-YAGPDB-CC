@@ -67,10 +67,13 @@ II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobil
 >
 > - Thông báo kết quả cuối cùng
 
++ Trúng bất kỳ phần quà nào
 ![image](https://github.com/user-attachments/assets/4fb3aeb5-1730-48f1-9539-c119de07d4da)
 
++ Toàn hụt
 ![image](https://github.com/user-attachments/assets/f4643dfc-8cd5-4981-806c-cd949787d73c)
 
++ PITY
 ![image](https://github.com/user-attachments/assets/518a1e84-bf22-4847-a426-b9370daba3ab)
 
 > Bạn muốn test thử? Join server https://discord.gg/2B2tUCtg4u và liên hệ `@kiruaaaa` nha nha :3 
