@@ -12,5 +12,11 @@ I. Bộ Randomizer tùy chỉnh (Chủ đề: Liên Quân Mobile)
 
 ![image](https://github.com/user-attachments/assets/71b88a97-6b9e-445a-88bf-bea8c884eef7)
 
+  2. Random kép - đôi (+ gán) (`random_solo_lqm.go`)
+> Random 1 chất tướng (Sát thủ / Đấu sĩ / Pháp sư / Trợ thủ / Xạ thủ/ Đỡ đòn)
+>
+> Thực hiện 2x (Random tướng thuộc chất tướng đã chọn - gán cho người dùng tương ứng)
+
+![image](https://github.com/user-attachments/assets/d8957c33-b0fb-4107-b8d0-9e857c54b965)
 
 
