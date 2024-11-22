@@ -73,4 +73,4 @@ II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobil
 
 ![image](https://github.com/user-attachments/assets/518a1e84-bf22-4847-a426-b9370daba3ab)
 
-
+> Bạn muốn test thử? Join server https://discord.gg/2B2tUCtg4u và liên hệ `@kiruaaaa` nha nha :3 
