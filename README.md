@@ -1,5 +1,7 @@
 # Sephera's Biển - YAGPDB's Custom Command
 Một số lệnh tùy chỉnh Kiru tạo ra bằng ngôn ngữ Go / Golang để phục vụ con dân Server :3 
+> Server: https://discord.gg/2B2tUCtg4u
+
 > Công cụ: YAGPDB - Custom Command
 
 > Note: YAGPDB đã có sẵn Dashboard hỗ trợ việc nhập liệu (Input), trong đây sẽ chỉ có phần Code về (lưu trữ Data riêng trong Server / xử lý dữ liệu / xuất dữ liệu)
@@ -79,4 +81,3 @@ II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobil
 
 ![image](https://github.com/user-attachments/assets/518a1e84-bf22-4847-a426-b9370daba3ab)
 
-> Bạn muốn test thử? Join server https://discord.gg/2B2tUCtg4u và liên hệ `@kiruaaaa` nha nha :3 
