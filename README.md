@@ -48,7 +48,7 @@ II. Bộ "Gacha" (Advanced Randomizer) (Chủ đề: Sephera - Liên Quân Mobil
 >
 > Chọn 1 Role trong List trên
 >
-> **Cơ chế UPRATE**: 1 Role chọn trước gắn mác "UPRATE" sẽ chiếm tỉ lệ nhiều hon so với các Role còn lại
+> **Cơ chế UPRATE**: 1 Role chọn trước gắn mác "UPRATE" sẽ chiếm tỉ lệ nhiều hơn so với các Role còn lại
 >
 > *(Bộ randomizer phụ 3 quyết định chọn Role UPRATE hoặc không)*
 
